@@ -1,7 +1,7 @@
 
 Welcome to the main [AI4EOSC](https://ai4eosc.eu/) GitHub organization.
 
-## Other GithHub organizations
+## Other related GitHub organizations
 
 * [AI4EOSC](https://github.com/ai4eosc): This is the main organization for all
   project related assets.
@@ -10,7 +10,7 @@ Welcome to the main [AI4EOSC](https://ai4eosc.eu/) GitHub organization.
   [iMagine platform](https://dashboard.cloud.imagine-ai.eu/) among others.
 * [AI4OS-Hub](https://github.com/ai4os-hub): This is the organization that
   contains the main modules and tools contributed to the platforms.
-* [DEEP-HDC](https://github.com/deep-hdc) (deprecated): This is deprectated
+* [DEEP-HDC](https://github.com/deep-hdc) (deprecated): This is deprecated
   organization contains legacy applications and modules, now migrated to this
   new structure.
 
