@@ -1,10 +1,27 @@
 
-Welcome to the [AI4EOSC](https://github.com/) GitHub organization. AI4EOSC will
-deliver an enhanced set services for the development of AI, ML and DL models
-and applications in the EOSC. The services will make use of advanced features
-such as distributed, federated and split learning; provenance metadata;
-event-driven data processing services or provisioning of AI/ML/DL services
-based on serverless computing.
+Welcome to the main [AI4EOSC](https://ai4eosc.eu/) GitHub organization.
+
+## Other GithHub organizations
+
+* [AI4EOSC](https://github.com/ai4eosc): This is the main organization for all
+  project related assets.
+* [AI4OS](https://github.com/ai4os): This is the organization that contains the software
+  stack that is powering the [AI4EOSC platform](https://dashboard.cloud.ai4eosc.eu/) or the
+  [iMagine platform](https://dashboard.cloud.imagine-ai.eu/) among others.
+* [AI4OS-Hub](https://github.com/ai4os-hub): This is the organization that
+  contains the main modules and tools contributed to the platforms.
+* [DEEP-HDC](https://github.com/deep-hdc) (deprecated): This is deprectated
+  organization contains legacy applications and modules, now migrated to this
+  new structure.
+
+## What is AI4EOSC
+
+AI4EOSC is a [Horizon Europe project](https://ai4eosc.eu/) that will deliver an
+enhanced set services for the development of AI, ML and DL models and
+applications in the EOSC. The services will make use of advanced features such
+as distributed, federated and split learning; provenance metadata; event-driven
+data processing services or provisioning of AI/ML/DL services based on
+serverless computing.
 
 ## Acknowledgements
 
