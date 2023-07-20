@@ -1,5 +1,11 @@
 
-Welcome to the main [AI4EOSC](https://ai4eosc.eu/) GitHub organization.
+Welcome to the [AI4OS](https://ai4eo.eu/) GitHub organization. This
+organization contains all the software repositories that form the AI4OS
+software stack.
+
+AI4OS is powering the [AI4EOSC platform](https://dashboard.cloud.ai4eosc.eu/)
+or the [iMagine platform](https://dashboard.cloud.imagine-ai.eu/) among others
+and can be tailored to build specific AI platforms for scientific communities.
 
 ## Other GithHub organizations
 
