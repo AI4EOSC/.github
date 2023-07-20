@@ -1,5 +1,7 @@
 
-Welcome to the main [AI4EOSC](https://ai4eosc.eu/) GitHub organization.
+Welcome to the main [AI4OS-Hub](https://ai4os.eu/) GitHub organization. This
+organization contains AI modules and tools that can be used by all the
+[AI4OS-Hub](https://ai4os.eu/) powered platforms.
 
 ## Other GithHub organizations
 
