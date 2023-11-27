@@ -12,7 +12,7 @@ organization contains AI modules and tools that can be used by all the
   [iMagine platform](https://dashboard.cloud.imagine-ai.eu/) among others.
 * [AI4OS-Hub](https://github.com/ai4os-hub): This is the organization that
   contains the main modules and tools contributed to the platforms.
-* [DEEP-HDC](https://github.com/deep-hdc) (deprecated): This is deprectated
+* [DEEP-HDC](https://github.com/deephdc) (deprecated): This deprectated
   organization contains legacy applications and modules, now migrated to this
   new structure.
 
