@@ -25,6 +25,6 @@ serverless computing.
 
 ## Acknowledgements
 
-<img width=300 align="left" src="https://github.com/AI4EOSC/.github/raw/main/profile/EN-Funded.jpg" alt="Funded by the European Union" />
+<img width=300 align="left" src="https://github.com/AI4EOSC/.github/raw/ai4eosc/profile/EN-Funded.jpg" alt="Funded by the European Union" />
 
 This project has received funding from the European Union’s Horizon Research and Innovation programme under Grant agreement No. 101058593
